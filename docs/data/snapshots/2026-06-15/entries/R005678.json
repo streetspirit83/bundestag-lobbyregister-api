@@ -1,0 +1,21 @@
+{
+  "id": 5678,
+  "clientIdentity": "-",
+  "employeeCount": { "from": 100, "to": 110 },
+  "financialExpensesEuro": { "from": 2000000, "to": 2010000, "fiscalYearStart": "01/22", "fiscalYearEnd": "12/22" },
+  "account": { "registerNumber": "R005678", "firstPublicationDate": "2022-02-15" },
+  "activityDescription": "Greenpeace e.V. setzt sich für Klimaschutz und den Ausbau erneuerbarer Energien ein. Zentrale Themen sind die Reduktion von CO2-Emissionen, der Kohleausstieg, die Energiewende sowie der Schutz der Meere. Wir fordern ambitionierte Klimaziele und treibhausgasneutrale Industrie.",
+  "lobbyistIdentity": {
+    "name": "Greenpeace e.V.",
+    "websites": ["https://www.greenpeace.de"]
+  },
+  "legislativeProjects": [
+    { "name": "Klimaschutzgesetz – Novelle", "printingNumber": "20/2222" },
+    { "name": "Gesetz zum Ausbau erneuerbarer Energien (EEG)", "printingNumber": "20/3333" }
+  ],
+  "fieldsOfInterest": [
+    { "code": "FOI_ENVIRONMENT", "de": "Umwelt", "en": "Environment" },
+    { "code": "FOI_ENERGY_RENEWABLE", "de": "Erneuerbare Energien", "en": "Renewable energy" }
+  ],
+  "clientOrganizations": []
+}

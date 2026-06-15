@@ -1,0 +1,21 @@
+{
+  "id": 1234,
+  "clientIdentity": "-",
+  "employeeCount": { "from": 50, "to": 60 },
+  "financialExpensesEuro": { "from": 1000000, "to": 1010000, "fiscalYearStart": "01/22", "fiscalYearEnd": "12/22" },
+  "account": { "registerNumber": "R001234", "firstPublicationDate": "2022-03-01" },
+  "activityDescription": "Die Rheinmetall AG vertritt Interessen im Bereich Verteidigung und Wehrtechnik. Schwerpunkte sind die Beschaffung von Rüstungsgütern, militärische Fahrzeuge sowie die Digitalisierung der Streitkräfte. Auch Fragen der Energieversorgung von Liegenschaften spielen eine Rolle.",
+  "lobbyistIdentity": {
+    "name": "Rheinmetall AG",
+    "websites": ["https://www.rheinmetall.com"]
+  },
+  "legislativeProjects": [
+    { "name": "Gesetz zur Stärkung der Verteidigungsbereitschaft", "printingNumber": "20/1234" },
+    { "name": "Beschleunigung von Rüstungsbeschaffungen", "printingNumber": "20/5678" }
+  ],
+  "fieldsOfInterest": [
+    { "code": "FOI_DEFENSE", "de": "Verteidigung", "en": "Defense" },
+    { "code": "FOI_ENERGY", "de": "Energie", "en": "Energy" }
+  ],
+  "clientOrganizations": []
+}

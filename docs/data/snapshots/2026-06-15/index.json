@@ -1,0 +1,33 @@
+{
+  "snapshotDate": "2026-06-15",
+  "source": "Deutscher Bundestag, Lobbyregister (Beispieldaten)",
+  "searchDate": "2026-06-15T00:00:00Z",
+  "entries": [
+    {
+      "id": "rheinmetall",
+      "registerNumber": "R001234",
+      "name": "Rheinmetall AG",
+      "tags": ["Rüstung", "DAX"],
+      "employeeCount": { "from": 50, "to": 60 },
+      "financialExpensesEuro": { "from": 1000000, "to": 1010000, "fiscalYearStart": "01/22", "fiscalYearEnd": "12/22" },
+      "fieldsOfInterestCodes": ["FOI_DEFENSE", "FOI_ENERGY"],
+      "legislativeProjectCount": 2,
+      "firstPublicationDate": "2022-03-01",
+      "entryFile": "entries/R001234.json",
+      "matchStatus": "name_fallback"
+    },
+    {
+      "id": "greenpeace",
+      "registerNumber": "R005678",
+      "name": "Greenpeace e.V.",
+      "tags": ["NGO", "Umwelt"],
+      "employeeCount": { "from": 100, "to": 110 },
+      "financialExpensesEuro": { "from": 2000000, "to": 2010000, "fiscalYearStart": "01/22", "fiscalYearEnd": "12/22" },
+      "fieldsOfInterestCodes": ["FOI_ENVIRONMENT", "FOI_ENERGY_RENEWABLE"],
+      "legislativeProjectCount": 2,
+      "firstPublicationDate": "2022-02-15",
+      "entryFile": "entries/R005678.json",
+      "matchStatus": "name_fallback"
+    }
+  ]
+}

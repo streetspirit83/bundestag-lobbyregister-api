@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "defaultFlags": "gi",
+  "topics": [
+    {
+      "id": "klimaschutz",
+      "label": "Klimaschutz",
+      "weight": 1.0,
+      "patterns": [
+        "klima\\w*",
+        "CO2|CO₂|treibhausgas\\w*",
+        "\\bEmission(en)?\\b",
+        "klimaneutral\\w*"
+      ]
+    },
+    {
+      "id": "energie",
+      "label": "Energie & Erneuerbare",
+      "weight": 1.0,
+      "patterns": [
+        "erneuerbar\\w*",
+        "\\b(wind|solar|photovoltaik)\\w*",
+        "wasserstoff\\w*",
+        "energiewende"
+      ]
+    },
+    {
+      "id": "ruestung",
+      "label": "Rüstung & Verteidigung",
+      "weight": 1.5,
+      "patterns": [
+        "rüstung\\w*",
+        "verteidigung\\w*",
+        "wehr(technik|pflicht|etat)\\w*",
+        "waffen?\\b"
+      ]
+    },
+    {
+      "id": "digitalisierung",
+      "label": "Digitalisierung & KI",
+      "weight": 1.0,
+      "patterns": [
+        "digital\\w*",
+        "künstliche\\s+intelligenz|\\bKI\\b",
+        "datenschutz",
+        "plattform\\w*"
+      ]
+    }
+  ]
+}

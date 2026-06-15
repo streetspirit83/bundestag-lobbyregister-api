@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "stakeholders": [
+    {
+      "id": "rheinmetall",
+      "name": "Rheinmetall AG",
+      "registerNumber": null,
+      "tags": ["Rüstung", "DAX"],
+      "queryOverride": null
+    },
+    {
+      "id": "greenpeace",
+      "name": "Greenpeace e.V.",
+      "registerNumber": null,
+      "tags": ["NGO", "Umwelt"],
+      "queryOverride": null
+    }
+  ]
+}
